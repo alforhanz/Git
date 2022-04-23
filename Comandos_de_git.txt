@@ -1,0 +1,1 @@
+aqui vamos a tener los comandos basicos de git, para suibir los repositorios locales y nuetros archivos a Github
