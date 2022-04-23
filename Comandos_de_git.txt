@@ -9,3 +9,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/alforhanz/Git.git
 git push -u origin main
+
+For added file or changes on the repository, use
+
+git add nameFile
+
+git comit -m "Comentarios"
+
+git push -u origin Rama(main, master, DEV, name_branch)
