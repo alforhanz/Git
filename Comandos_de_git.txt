@@ -1,1 +1,11 @@
 aqui vamos a tener los comandos basicos de git, para suibir los repositorios locales y nuetros archivos a Github
+
+for create a new repository on the command line use:
+
+echo "# Git" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/alforhanz/Git.git
+git push -u origin main
